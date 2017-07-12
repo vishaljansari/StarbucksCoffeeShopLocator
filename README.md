@@ -4,7 +4,7 @@ Web Application in Servlet which gives the information about the Starbucks Coffe
 
 # How to run ?
 
---> First, install the latest tomcat server and set it to target runtime for new Dynemic Web Project.
+--> First, install the latest tomcat server and set it to target runtime for new Dynamic Web Project.
 
 --> Make sure, You put the starbucks.csv file under the /WebContent/WEB-INF folder.
 
